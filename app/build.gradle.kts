@@ -69,6 +69,7 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.annotation:annotation:1.7.1")
     implementation("androidx.legacy:legacy-support-v4:1.0.0")
+    implementation ("com.airbnb.android:lottie:4.2.0")
 
     //aac
     implementation("androidx.lifecycle:lifecycle-extensions:2.2.0")
